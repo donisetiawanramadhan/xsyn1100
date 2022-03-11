@@ -1,6 +1,7 @@
 <h2 align="center">
      ──「 HEY 👋, I'M DONI RAMADHAN  」──
 </h2>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=xsyn1100 alt=xsyn1100/> </p>
 
 
 
