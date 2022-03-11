@@ -22,13 +22,13 @@
         Email me at : <a href="doniramadhan933@gmail.com">doniramadhan933@gmail.com</a><br>
 
 
-<h3 align="center">
-    ─「 📊 GITHUB STATS 」─
-</h3>
 
-  <br/>
+
+<h2> 📊 GITHUB STATS <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<br/>
     <a href="https://github.com/xsyn1100/github-readme-stats"><img alt="Doni Ramadhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=xsyn1100&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+
 
 <h3 align="center">   
 <h3> LANGUAGES <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
@@ -48,8 +48,7 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/rahulbanerjee2699'> <img width = '32px' align= 'center' 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2> 
 <p align="center">
   <a href="https://t.me/shshtst"> 
       <img src="https://img.shields.io/badge/My-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" /> 
@@ -72,5 +71,12 @@ A <b>BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 </p>
 
 
+
+
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/xsyn1100/xsyn1100">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rahulbanerjee26&compact=True"/>
+</a>
+<br>
 
 
