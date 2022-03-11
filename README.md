@@ -12,7 +12,7 @@
     <a href="https://www.instagram.com/im_donn93/"> 
         <img src="https://img.shields.io/badge/My-Instagram-red?style=for-the-badge&logo=instagram" alt="Instagram" /> 
     </a>
-    <a href="https://web.facebook.com/ImDonn/"> 
+    <a href="https://web.facebook.com/DONI.UCUL/"> 
         <img src="https://img.shields.io/badge/My-Facebook-darkblue?style=for-the-badge&logo=facebook" alt="Facebook" /> 
     </a>
 </p>
@@ -25,7 +25,6 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 <p align="center">
   <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
 </p>
-
 
 <h3 align="center">
     ──「 ABOUT ME! 」──
