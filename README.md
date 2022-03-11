@@ -2,7 +2,7 @@
     ──「 HEY 👋, I'M DONI RAMADHAN 」──
 </h2>
 <h3 align="center">
-    ──「 I'AM KNOWING AS DONI ON TELEGRAM 」──
+    ──「 I'AM KNOWING AS PAUL ON TELEGRAM 」──
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
+A <b>BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 </p>
 
  
@@ -36,7 +36,7 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
       <td align="center">
         👨🏽‍💻 I’m learning Python Programming Language.<br>
         🌱 I’m a lazy people :smile:.<br>
-        🤔 My interest lies in back end web development.<br>
+        🤔 My interest lies in bot telegram development.<br>
         💬 Ask me about anything, I love to answer!<br>
         Email me at : <a href="doniramadhan933@gmail.com">doniramadhan933@gmail.com</a><br>
       </td>
