@@ -1,3 +1,8 @@
+<p align="center">
+  <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
+</p>
+
+
 <h2 align="center">
        HEY 👋, I'M DONI RAMADHAN
 </h2>
