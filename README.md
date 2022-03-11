@@ -1,6 +1,13 @@
 <h2 align="center">
     ──「 HEY 👋, I'M DONI RAMADHAN 」──
 </h2>
+
+📊 Github Stats
+
+  <br/>
+    <a href="https://github.com/xsyn1100/github-readme-stats"><img alt="Doni Ramadhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=xsyn1100&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
 <h3 align="center">
     ──「 I'AM KNOWING AS PAUL ON TELEGRAM 」──
 </h3>
@@ -53,6 +60,4 @@ A <b>BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-----
-Credit: [Doni Ramadhan](https://github.com/xsyn1100)
 
