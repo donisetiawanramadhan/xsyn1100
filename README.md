@@ -22,14 +22,14 @@
         Email me at : <a href="doniramadhan933@gmail.com">doniramadhan933@gmail.com</a><br>
       
 <h3 align="center">   
-</h3>Progamming Languages<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<h3> PROGAMMING LANGUAGES <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/rahulbanerjee2699'> <img width = '32px' align= 'center' 
 <p align="center">
-    <a href="https://t.me/shshtst"> 
-        <img src="https://img.shields.io/badge/My-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" /> 
+  <a href="https://t.me/shshtst"> 
+      <img src="https://img.shields.io/badge/My-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" /> 
     </a>
     <a href="https://www.instagram.com/im_donn93/"> 
         <img src="https://img.shields.io/badge/My-Instagram-red?style=for-the-badge&logo=instagram" alt="Instagram" /> 
