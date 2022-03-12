@@ -1,6 +1,4 @@
-<p align="center">
-  <img align="center" alt="GIF" src="32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif" width = 99999999999px/>
-</p>
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
@@ -33,8 +31,21 @@
     <a href="https://github.com/xsyn1100/github-readme-stats"><img alt="Doni Ramadhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=xsyn1100&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-###  Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=xsyn1100&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<details>
+    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=xsyn1100&margin-w=5&margin-h=5)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/xsyn1100?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">   
 <h3>PROGRAMMING LANGUAGES <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
