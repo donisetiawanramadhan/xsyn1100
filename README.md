@@ -2,7 +2,7 @@
   <img align="center" alt="GIF" src="e593ab0589d5f1b389e4dfbcce2bce20.gif" width = 90px/>
 </p>
 
-## Holaaa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Doni
+## Hai <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Darling
 
 
 </h2>
