@@ -21,7 +21,7 @@
 - 🦊 My interest lies in bot telegram development 
 
 - 💬 Ask me about anything, I love to answer!<br>
-        Telegram me at : [Here](t.me/shshtst)
+        Telegram me at : [Here](https://t.me/shshtst)
 
 
 <h3 align="center">   
