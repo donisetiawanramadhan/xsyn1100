@@ -2,9 +2,8 @@
   <img align="center" alt="GIF" src="e593ab0589d5f1b389e4dfbcce2bce20.gif" width = 90px/>
 </p>
 
-## Hai <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Darling
-
-
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 </h2>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=xsyn1100 alt=xsyn1100/> </p>
 
